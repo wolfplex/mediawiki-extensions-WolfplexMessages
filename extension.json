@@ -1,0 +1,13 @@
+{
+	"name": "WolfplexMessages",
+	"author": "Sébastien Santoro aka Dereckson",
+	"descriptionmsg": "wolfplexmessages-desc",
+	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
+	"ExtensionMessagesFiles": {
+		"WolfplexMessages": "WolfplexMessages.i18n.php"
+	},
+	"manifest_version": 2
+}
